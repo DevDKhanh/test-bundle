@@ -1,0 +1,97 @@
+
+A.png
+size: 1070,176
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 146, 82
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 331, 82
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 516, 82
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 701, 82
+  size: 183, 92
+  orig: 183, 92
+  offset: 0, 0
+  index: -1
+Rectangle 1 copy 3
+  rotate: false
+  xy: 886, 96
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat duoi 2
+  rotate: false
+  xy: 146, 2
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 1
+  rotate: false
+  xy: 278, 2
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 2
+  rotate: false
+  xy: 410, 2
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 3
+  rotate: false
+  xy: 542, 2
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 4
+  rotate: false
+  xy: 674, 2
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 5
+  rotate: false
+  xy: 806, 2
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+mat tren 6
+  rotate: false
+  xy: 938, 16
+  size: 130, 78
+  orig: 130, 78
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 32
+  size: 142, 142
+  orig: 150, 150
+  offset: 6, 1
+  index: -1
